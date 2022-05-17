@@ -110,9 +110,4 @@ components: { VueImageHandler }
  }
 </script>
 ```
-## 更新日志
 
-### 1.2.9
-```
-支持页面内单独引用：`import VueImageHandler from 'vue-image-handler'`
-```
